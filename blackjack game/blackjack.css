@@ -1,0 +1,52 @@
+  
+   body{
+       display: flex;
+       justify-content: center; 
+       /* horizontal */
+       margin-top: 100px;
+   }
+       
+  h1{
+      color: yellowgreen;
+   text-align: center;
+   
+  }
+
+   div.blackjack p{
+           text-align: center;
+  margin-left: 5opx;
+  color: whitesmoke;
+    
+   }
+   .blackjack{
+       background-color: brown;
+       height: 350px;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       width: 300px;
+       font-weight: bold;
+   }
+
+.btn-start{
+    color: #016f32;
+    width: 130px;
+    background-color: goldenrod;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 2px  solid white;
+
+
+}
+.btn-newcard{
+    color: #016f32;
+    width: 130px;
+    background-color: goldenrod;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 2px  solid white;
+    margin-top: 5px;
+
+}
+

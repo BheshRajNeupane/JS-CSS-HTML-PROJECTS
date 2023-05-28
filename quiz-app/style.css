@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Grape+Nuts&family=Macondo&family=Montserrat:wght@600&display=swap');
+
+
+
+
+*{
+    box-sizing:border-box;
+
+}
+body{
+  background-color: gainsboro;
+ 
+
+  
+  
+}
+
+
+
+  .quiz-box{
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+    font-weight: bold;
+           background-color:#fff;
+           margin: 100px ;
+           margin-bottom: 0px;
+           /* border-radius: 10px; */
+           box-shadow: #86ab94;
+           width: 400px;
+           height: 200px;
+            padding: 20px 20px 10px 60px; 
+        overflow: hidden;
+
+  }
+
+  ul {
+      text-transform: capitalize;
+      font-weight: normal;
+      padding-bottom: 30px;
+      list-style: none;  
+      /* it list-style hide  some thing chech ti by cmmt  */
+  }
+    
+    ul li{
+   
+      margin: .4rem 0;
+      cursor: pointer;
+      
+      
+    }  
+
+    ul li label{
+         cursor: pointer;
+    }
+  
+  .quiz-container button{
+   /* display: flex;
+   flex-direction: column;
+   
+   justify-items: center;
+   align-items: center;
+   margin-top: 0px; */
+   color: white;
+   width: 400px;
+       background-color: blue;
+       height: 70px; 
+       /* padding: px; */
+       display: block;
+       padding-left:0px ;
+       text-transform: capitalize;
+       font-size: 2rem;
+       margin-left: 100px;
+       /* border-radius: 10px; */
+     overflow: hidden;
+
+     cursor: pointer;
+
+   }
+button:focus{
+  color: #ab868f;
+  background-color: blueviolet;
+  outline-offset: none;
+}
+
+
+
+
+
+
+  
+
+    
+

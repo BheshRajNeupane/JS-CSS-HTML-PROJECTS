@@ -1,0 +1,12 @@
+alt 0176---> ° degree
+
+openweather api -->
+
+form action retun false--> preventDefault()  on subming black 
+
+fetch(``)-->templates litral
+
+json()-->lowercase
+
+response.cod ==='404'  (error status code 404)
+cod 404
